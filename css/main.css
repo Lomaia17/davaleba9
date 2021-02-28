@@ -106,3 +106,33 @@ header{
 .section-h2:hover {
   border-bottom: 0.5px solid #707070;
 }
+
+footer{
+  margin-top: 68px;
+  width: 100%;
+  background-color: #2E2E2E;
+}
+
+.footer-logo {
+  margin: 56px 374px 56px 140px;
+}
+
+.center{ 
+  align-items: center;
+}
+.contact{
+  margin-right: 360px;
+  font-family: 'Archy EDT';
+  color:#F2F2F2
+}
+.contact-h2, .address-h2{
+  font-size: 20px;
+}
+.contact-p, .address-p {
+  font-size: 13px;
+}
+.address{
+  margin-right: 270px;
+  font-family: 'Archy EDT';
+  color:#F2F2F2
+}
