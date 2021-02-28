@@ -1,0 +1,49 @@
+.flex{
+  display: flex;
+}
+header{
+  margin-top: 52px;
+  margin-left: 140px;
+  margin-right: 140px;
+}
+
+.nav-links{
+  align-items: center;
+  margin-left: 698px;
+}
+
+.nav-links li {
+  display: inline-block;
+}
+.nav-links li a {
+  font-family: 'Archy EDT';
+  color: #707070;
+  font-size: 20px;
+}
+.nav-1{
+  margin-right: 53px;
+}
+.nav-2{
+  margin-right: 70px;
+}
+.nav-3 {
+  margin-right: 105px;
+}
+.nav-4{
+  margin-right: 78px;
+}
+.nav-search{ 
+  width: 25.5px;
+  height: 25.5px;
+  cursor:pointer;
+}
+.slider-container {
+max-width: 1640px;
+width: 100%;
+
+}
+.slide{
+  margin-top: 60px;
+  margin-left: 140px;
+  margin-right: 140px;
+}
