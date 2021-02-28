@@ -49,7 +49,9 @@ header{
   margin-left: 140px;
   margin-right: 140px;
 }
-
+#articles {
+  margin-bottom: 55px;
+}
 .articles-h2{
   font-family: 'Archy EDT';
   font-size: 40px;
@@ -68,6 +70,7 @@ header{
   color: #707070;
   margin-top: 20px;
   margin-bottom: 30px;
+  margin-left: 10px;
 }
 
 .article1-p{
@@ -76,6 +79,7 @@ header{
   color: #707070;
   width: 446px;
   margin-bottom: 70px;
+  margin-left: 10px;
 }
 
 .btn{
@@ -84,4 +88,21 @@ header{
  font-family: 'Archy EDT';
  font-size:24px;
  color: #707070;
+}
+.btn-p{
+  margin-bottom: 35px;
+}
+.section-end{
+  justify-content: center;
+}
+
+.section-h2 {
+  font-family: 'Archy EDT';
+  font-size:30px;
+  color: #707070;
+  margin-bottom: 52px;
+}
+
+.section-h2:hover {
+  border-bottom: 0.5px solid #707070;
 }
