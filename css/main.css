@@ -144,6 +144,9 @@ footer{
 .fb {margin-right:30px;}
 
 @media only screen and (max-width: 320px)  {
+  body {
+    overflow-x: hidden;
+  }
   header {
     margin-top: 13px;
     margin-left: 0;
